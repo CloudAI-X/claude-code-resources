@@ -220,7 +220,7 @@ A curated, skill-level organized guide to essential resources for [Claude Code](
 
 | Resource | Author | Description |
 |----------|--------|-------------|
-| [Claude Code System Prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | Piebald AI | All parts of Claude Code's system prompt including tool descriptions and sub agent prompts. Updated per version |
+| [Claude Code System Prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | Piebald AI | All parts of Claude Code's system prompt including tool descriptions and sub-agent prompts. Updated per version |
 | [tweakcc](https://github.com/Piebald-AI/tweakcc) | Piebald-AI | Command-line tool to customize Claude Code styling |
 | [cclogviewer](https://github.com/brads/cclogviewer) | Brad S. | Utility for viewing Claude Code .jsonl conversation files in HTML UI |
 | [claude-code-docs](https://github.com/constantinshafranski/claude-code-docs) | Constantin Shafranski | Mirror of Anthropic documentation with full-text search and query-time updates |
@@ -238,7 +238,7 @@ A curated, skill-level organized guide to essential resources for [Claude Code](
 
 | Resource | Author | Description |
 |----------|--------|-------------|
-| [VoiceMode MCP](https://github.com/mbailey/voicemode) | Mike Bailey | Natural conversations for Claude Code supporting OpenAI API compatible voice services |
+| [VoiceMode MCP](https://github.com/mbailey/voicemode) | Mike Bailey | Natural conversations for Claude Code supporting OpenAI API-compatible voice services |
 | [stt-mcp-server-linux](https://github.com/marcindulak/stt-mcp-server-linux) | marcindulak | Push-to-talk speech transcription for Linux using Python MCP server. Runs locally in Docker |
 
 ---
