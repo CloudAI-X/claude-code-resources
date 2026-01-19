@@ -200,6 +200,11 @@ A curated, skill-level organized guide to essential resources for [Claude Code](
 | [Agentic Workflow Patterns](https://github.com/ThibautMelen/agentic-workflow-patterns) | ThibautMelen | Comprehensive agentic patterns from Anthropic docs with Mermaid diagrams covering Subagent Orchestration, Master-Clone Architecture |
 | [Claude Code Infrastructure Showcase](https://github.com/diet103/claude-code-infrastructure) | diet103 | Innovative approach using hooks to ensure Claude intelligently selects appropriate Skills for current context |
 | [Context Priming](https://github.com/disler/context-priming) | disler | Systematic approach to priming Claude Code with comprehensive project context through specialized commands |
+
+### Review Workflows
+
+| Resource | Author | Description |
+|----------|--------|-------------|
 | [Design Review Workflow](https://github.com/patrickellis/design-review-workflow) | Patrick Ellis | Automated UI/UX design review workflow with sub agents covering responsive design to accessibility |
 
 ### Desktop & Alternative Clients
