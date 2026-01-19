@@ -121,9 +121,14 @@ Resources for developers comfortable with Claude Code basics looking to enhance 
 | [RIPER Workflow](https://github.com/tony/claude-code-riper-5) | Research, Innovate, Plan, Execute, Review phases |
 | [AB Method](https://github.com/ayoubben18/ab-method) | Spec-driven workflow with sub-agents |
 | [Agentic Workflow Patterns](https://github.com/ThibautMelen/agentic-workflow-patterns) | Patterns from Anthropic docs with Mermaid diagrams |
-| [Design Review Workflow](https://github.com/OneRedOak/claude-code-workflows) | Code review focused workflows |
 | [Project Workflow System](https://github.com/harperreed/dotfiles) | Dotfiles-based workflow |
 | [Simone](https://github.com/Helmi/claude-simone) | Development assistant workflow |
+
+### Review Workflows
+
+| Resource | Description |
+|----------|-------------|
+| [Design Review Workflow](https://github.com/OneRedOak/claude-code-workflows) | Code review focused workflows |
 
 ### Project Management Tools
 
