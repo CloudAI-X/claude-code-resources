@@ -1,1 +1,1 @@
-hi
+Claude Code Resources Guide
