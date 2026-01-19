@@ -5,7 +5,7 @@ A curated, compact guide to essential resources for [Claude Code](https://docs.a
 ## Quick Start
 
 **New to Claude Code?** Start here:
-- [Official Documentation](https://docs.claude.com/en/home) - Installation, tutorials, and API references
+- [Official Documentation](https://docs.anthropic.com/en/home) - Installation, tutorials, and API references
 - [Anthropic Quickstarts](https://github.com/anthropics/claude-quickstarts) - Three demo projects with standardized workflows
 
 ## Essential Resources
@@ -76,7 +76,7 @@ Project-specific context files that help Claude understand your codebase.
 
 Customize your terminal status bar with real-time information.
 
-- [CCometixLine](https://github.com/Haleclipse/CCometixLine) - High-performance Rust implementation with Git and usage tracking
+- [CometixLine](https://github.com/Haleclipse/CCometixLine) - High-performance Rust implementation with Git and usage tracking
 - [claude-powerline](https://github.com/Owloops/claude-powerline) - Vim-style powerline with themes
 - [claudia-statusline](https://github.com/hagan/claudia-statusline) - SQLite-backed persistence with cloud sync
 
