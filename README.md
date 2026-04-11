@@ -79,6 +79,7 @@ A curated, skill-level organized guide to essential resources for [Claude Code](
 | [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) | Vlad Goncharov | Advanced context engineering techniques with minimal token footprint for improved agent quality |
 | [TÂCHES Claude Code Resources](https://github.com/taches/claude-code-resources) | TÂCHES | Well-balanced sub agents, skills, and commands with meta-skills like skill-auditor and hook creation |
 | [Codex Skill](https://github.com/klaudworks/codex-skill) | klaudworks | Enables prompting codex from Claude Code with parameter inference for model, reasoning effort, sandboxing |
+| [Toprank](https://github.com/nowork-studio/toprank) | nowork-studio | Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes including meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes. |
 
 ### Hooks Development
 
