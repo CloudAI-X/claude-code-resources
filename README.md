@@ -47,6 +47,7 @@ A curated, skill-level organized guide to essential resources for [Claude Code](
 |----------|--------|-------------|
 | [CC Usage](https://github.com/ryoppippi/cc-usage) | ryoppippi | CLI tool for managing and analyzing Claude Code usage with cost information |
 | [Claude Code Usage Monitor](https://github.com/maciek-roboblog/claude-code-usage-monitor) | Maciek-roboblog | Real-time terminal tool showing live token consumption and burn rate with visual progress bars |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | luoyuctl | Local TUI for inspecting Claude Code and other coding-agent sessions, including costs, tokens, latency, tool failures, diffs, and slow-run diagnostics |
 
 ### IDE Integrations
 
